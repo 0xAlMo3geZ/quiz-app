@@ -1,4 +1,5 @@
 # quiz-app
+quiz app for vue.js practice.
 
 ## Project Setup
 
